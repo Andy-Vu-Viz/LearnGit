@@ -1,1 +1,2 @@
 difference
+Another line of text
